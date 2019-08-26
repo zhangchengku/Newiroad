@@ -25,7 +25,7 @@ public class MyApplication extends Application {
     public static String BASEURL="http://106.37.229.146:5569/CurrencyRCYH/";
     public static String TPDZ= "com.zggk.newiroad.fileprovider";
     public final String APP_FILE_SAVE_PATH = "/mnt/sdcard/zggkiroad/";
-    public static MyApplication app;// 应用实例
+    public static MyApplication app;// 应用实
     public static final int SHOW_TOAST_TIMES = 500;// 土司通知显示时长
     public CuringDao curingDao;
     public RequestOptions options;
